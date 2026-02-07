@@ -7,12 +7,20 @@
     "targetId": "Sirius",
     "targetShape": "冬のダイヤモンド" 
   },
+{
   "38": {
-    "titleJa": "冬の大三角",
-    "titleEn": "The Winter Triangle",
-    "contentJa": "今夜は、冬の夜空に浮かぶ華やかな正三角形『冬の大三角』を探してみましょう。全天一明るいシリウス、白いプロキオン、そして赤く輝くベテルギウスを結んで描かれます。都会の空でも見つけやすい、冬を代表する目印です。",
-    "contentEn": "Tonight, look for the 'Winter Triangle,' a brilliant nearly equilateral triangle. It is formed by three bright stars: Sirius, the brightest star in the sky; the white Procyon; and the reddish Betelgeuse. It's a famous landmark even in city skies.",
+    "titleJa": "冬の大三角とオリオンの右肩",
+    "titleEn": "Winter Triangle & Orion's Shoulder",
+    "contentJa": "冬の夜空で最も有名な目印、シリウス、プロキオン、ベテルギウスを結ぶ『冬の大三角』を見つけましょう。特に赤いベテルギウスは、まもなく寿命を迎える巨大な星として知られています。",
+    "contentEn": "Let's find the 'Winter Triangle' formed by Sirius, Procyon, and Betelgeuse. Betelgeuse is a famous red supergiant nearing the end of its life.",
+    "highlightJa": "今夜は月が近くにないので、ベテルギウスの赤い色と、シリウスの青白い輝きのコントラストがよりはっきりと見えます。",
+    "highlightEn": "With no bright moon tonight, the color contrast between reddish Betelgeuse and bluish Sirius is stunning.",
+    "mythologyJa": "オリオン座のベテルギウスは、狩人オリオンの右肩にあたります。彼は月と狩りの女神アルテミスと愛し合っていましたが、悲しい運命によって彼女の放った矢に倒れてしまいました。",
+    "mythologyEn": "Betelgeuse marks the shoulder of Orion the Hunter. He was in love with the goddess Artemis but tragically fell by her arrow due to a misunderstanding.",
+    "triviaJa": "ベテルギウスという名前はアラビア語で『巨人の脇の下』という意味に由来しています。太陽の約1000倍もの大きさがある超巨星です。",
+    "triviaEn": "The name Betelgeuse comes from Arabic, meaning 'the armpit of the giant.' It's a supergiant about 1,000 times larger than our Sun.",
     "targetId": "Betelgeuse",
-    "targetShape": "冬の三角形" 
+    "targetShape": "冬の三角形"
   }
+}
 }
