@@ -6,5 +6,13 @@
     "contentEn": "Tonight, look for the 'Winter Diamond,' a giant hexagon formed by six bright first-magnitude stars: Sirius, Procyon, Pollux, Capella, Aldebaran, and Rigel.",
     "targetId": "Sirius",
     "targetShape": "冬のダイヤモンド" 
+  },
+  "38": {
+    "titleJa": "冬の大三角",
+    "titleEn": "The Winter Triangle",
+    "contentJa": "今夜は、冬の夜空に浮かぶ華やかな正三角形『冬の大三角』を探してみましょう。全天一明るいシリウス、白いプロキオン、そして赤く輝くベテルギウスを結んで描かれます。都会の空でも見つけやすい、冬を代表する目印です。",
+    "contentEn": "Tonight, look for the 'Winter Triangle,' a brilliant nearly equilateral triangle. It is formed by three bright stars: Sirius, the brightest star in the sky; the white Procyon; and the reddish Betelgeuse. It's a famous landmark even in city skies.",
+    "targetId": "Betelgeuse",
+    "targetShape": "冬の三角形" 
   }
 }
