@@ -20,5 +20,61 @@
     "triviaEn": "The name Betelgeuse comes from Arabic, meaning 'the armpit of the giant.' It's a supergiant about 1,000 times larger than our Sun.",
     "targetId": "Betelgeuse",
     "targetShape": "冬の三角形"
+  },
+  "39": {
+    "titleJa": "全天一の輝き、シリウス",
+    "titleEn": "Sirius: The Brightest Star",
+    "contentJa": "今夜は南の空でひときわ青白く輝く、おおいぬ座の『シリウス』を見つけてみましょう。太陽を除けば、地球から見える最も明るい恒星です。",
+    "contentEn": "Look for Sirius in the southern sky, the brightest star in the night sky. It shines with a brilliant blue-white light in the constellation Canis Major.",
+    "highlightJa": "低空にあるときは、地球の大気の影響で虹色にチカチカとまたたいて見えることがあります。その美しさは宝石のようです。",
+    "highlightEn": "When it's low on the horizon, Sirius often appears to flicker in multiple colors due to Earth's atmosphere.",
+    "mythologyJa": "シリウスは、狩人オリオンが連れている猟犬の口元で輝いています。古代エジプトでは、この星が明け方に昇ってくる頃にナイル川が氾濫したため、聖なる星として崇められました。",
+    "mythologyEn": "Sirius marks the mouth of the Great Dog (Canis Major) following Orion. In Ancient Egypt, its rising heralded the flooding of the Nile.",
+    "triviaJa": "シリウスは実は2つの星が回り合っている『連星』です。明るいシリウスAの影に、小さな白い矮星シリウスBが隠れています。",
+    "triviaEn": "Sirius is actually a binary star system. A tiny white dwarf, Sirius B, orbits the much brighter Sirius A.",
+    "targetId": "Sirius",
+    "targetShape": ""
+  },
+  "40": {
+    "titleJa": "夜空の宝石箱、すばる",
+    "titleEn": "M45: The Pleiades",
+    "contentJa": "おうし座の背中に集まる小さな星の集まり『すばる（プレアデス星団）』を探してみましょう。視力が良ければ6〜7個の星が寄り添っているのが見えます。",
+    "contentEn": "Look for the Pleiades, also known as 'Subaru' in Japan, an open star cluster resting on the back of Taurus the Bull.",
+    "highlightJa": "肉眼ではぼんやりした雲のように見えますが、双眼鏡を使うと数十個の青白い星がバラバラと広がる、息をのむような美しさです。",
+    "highlightEn": "While it looks like a faint cloud to the naked eye, binoculars reveal dozens of dazzling blue-white stars.",
+    "mythologyJa": "ギリシャ神話では、巨人アトラスの7人の娘たちとされています。オリオンから逃れるために、神々によって星の姿に変えられたと言われています。",
+    "mythologyEn": "In Greek mythology, these are the Seven Sisters, daughters of Atlas, placed in the sky to escape the pursuit of Orion.",
+    "triviaJa": "日本の自動車メーカー『スバル』のエンブレムは、この星団がモチーフです。当時は6つの会社が合併して誕生したため、6つの星が描かれています。",
+    "triviaEn": "The Japanese car brand 'Subaru' uses this cluster as its logo, with six stars representing the merger of six companies.",
+    "targetId": "M45",
+    "targetShape": ""
+  },
+  "41": {
+    "titleJa": "南国の伝説、カノープス",
+    "titleEn": "Canopus: The Star of Longevity",
+    "contentJa": "今夜、南の地平線ぎりぎりを見つめてみましょう。シリウスに次いで全天で2番目に明るい星『カノープス』が見えるかもしれません。北日本では見ることができない、南国からの贈り物です。",
+    "contentEn": "Search low on the southern horizon for Canopus, the second brightest star in the sky. It is rarely seen from northern latitudes.",
+    "highlightJa": "非常に低い位置にあるため、赤っぽく見えることが多いです。地平線近くに雲がない晴天がチャンスです。",
+    "highlightEn": "Due to its low altitude, it often appears reddish. You need a clear horizon to spot it.",
+    "mythologyJa": "中国では『南極老人星』と呼ばれ、この星を一度見ると寿命が延びるという縁起の良い星として知られています。",
+    "mythologyEn": "In Chinese tradition, it is known as the 'Old Man of the South Pole' and is believed to grant longevity to those who see it.",
+    "triviaJa": "シリウスが白いのに対し、カノープスは実際には黄色っぽく輝く星です。南極探検などの航海では重要な目印にされました。",
+    "triviaEn": "While Sirius is white, Canopus is a yellowish supergiant. It has long been a vital navigation star for sailors.",
+    "targetId": "Canopus",
+    "targetShape": ""
+  },
+  "42": {
+    "titleJa": "オリオンの剣と大星雲",
+    "titleEn": "Orion's Sword and the Great Nebula",
+    "contentJa": "オリオン座の三つ星の下に、縦に並んだ3つの小さな星があります。これは『オリオンの小三つ星』と呼ばれ、その中央には宇宙のゆりかご『オリオン大星雲』が隠れています。",
+    "contentEn": "Below Orion’s Belt lies 'Orion's Sword.' In its center sits the Orion Nebula, a vast nursery where new stars are being born.",
+    "highlightJa": "街明かりが少ない場所なら、真ん中の星が少しぼやけて見えます。そこでは今まさに、新しい星が誕生しています。",
+    "highlightEn": "In dark skies, the middle 'star' of the sword looks fuzzy. That fuzziness is a nebula where stars are forming.",
+    "mythologyJa": "オリオンの腰から下げられた「剣」に見立てられています。勇壮な狩人の装備の一部です。",
+    "mythologyEn": "It is envisioned as the sword hanging from Orion's belt, part of the legendary hunter's equipment.",
+    "triviaJa": "オリオン大星雲（M42）は地球から約1,300光年離れています。その中には生まれたばかりの4つの星『トラペジウム』が輝いています。",
+    "triviaEn": "The Orion Nebula (M42) is about 1,300 light-years away and contains a quartet of young stars called the Trapezium.",
+    "targetId": "M42",
+    "targetShape": ""
   }
 }
