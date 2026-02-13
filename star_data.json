@@ -1,0 +1,3004 @@
+{
+  "stars": [
+    {
+      "id": "Sirius",
+      "name": "シリウス",
+      "enName": "Sirius",
+      "ra": 101.28,
+      "dec": -16.71,
+      "mag": -1.46,
+      "color": "blue",
+      "size": 6.0
+    },
+    {
+      "id": "Canopus",
+      "name": "カノープス",
+      "enName": "Canopus",
+      "ra": 95.99,
+      "dec": -52.69,
+      "mag": -0.74,
+      "color": "white",
+      "size": 5.0
+    },
+    {
+      "id": "Vega",
+      "name": "ベガ",
+      "enName": "Vega",
+      "ra": 279.23,
+      "dec": 38.78,
+      "mag": 0.03,
+      "color": "white",
+      "size": 5.0
+    },
+    {
+      "id": "Rigel",
+      "name": "リゲル",
+      "enName": "Rigel",
+      "ra": 78.63,
+      "dec": -8.2,
+      "mag": 0.13,
+      "color": "blue",
+      "size": 5.0
+    },
+    {
+      "id": "Capella",
+      "name": "カペラ",
+      "enName": "Capella",
+      "ra": 79.17,
+      "dec": 45.99,
+      "mag": 0.08,
+      "color": "yellow",
+      "size": 5.0
+    },
+    {
+      "id": "Betelgeuse",
+      "name": "ベテルギウス",
+      "enName": "Betelgeuse",
+      "ra": 88.79,
+      "dec": 7.4,
+      "mag": 0.42,
+      "color": "red",
+      "size": 5.0
+    },
+    {
+      "id": "Altair",
+      "name": "アルタイル",
+      "enName": "Altair",
+      "ra": 297.69,
+      "dec": 8.87,
+      "mag": 0.76,
+      "color": "white",
+      "size": 4.0
+    },
+    {
+      "id": "Aldebaran",
+      "name": "アルデバラン",
+      "enName": "Aldebaran",
+      "ra": 68.98,
+      "dec": 16.5,
+      "mag": 0.86,
+      "color": "orange",
+      "size": 4.0
+    },
+    {
+      "id": "Spica",
+      "name": "スピカ",
+      "enName": "Spica",
+      "ra": 201.29,
+      "dec": -11.16,
+      "mag": 0.97,
+      "color": "blue",
+      "size": 4.0
+    },
+    {
+      "id": "Antares",
+      "name": "アンタレス",
+      "enName": "Antares",
+      "ra": 247.35,
+      "dec": -26.43,
+      "mag": 1.06,
+      "color": "red",
+      "size": 4.0
+    },
+    {
+      "id": "Pollux",
+      "name": "ポルックス",
+      "enName": "Pollux",
+      "ra": 116.32,
+      "dec": 28.02,
+      "mag": 1.14,
+      "color": "orange",
+      "size": 4.0
+    },
+    {
+      "id": "Deneb",
+      "name": "デネブ",
+      "enName": "Deneb",
+      "ra": 310.35,
+      "dec": 45.28,
+      "mag": 1.25,
+      "color": "white",
+      "size": 4.0
+    },
+    {
+      "id": "Regulus",
+      "name": "レグルス",
+      "enName": "Regulus",
+      "ra": 152.09,
+      "dec": 11.96,
+      "mag": 1.39,
+      "color": "blue",
+      "size": 4.0
+    },
+    {
+      "id": "Procyon",
+      "name": "プロキオン",
+      "enName": "Procyon",
+      "ra": 114.82,
+      "dec": 5.22,
+      "mag": 0.34,
+      "color": "white",
+      "size": 5.0
+    },
+    {
+      "id": "Achernar",
+      "name": "アケルナル",
+      "enName": "Achernar",
+      "ra": 24.42,
+      "dec": -57.23,
+      "mag": 0.46,
+      "color": "blue",
+      "size": 5.0
+    },
+    {
+      "id": "Hadar",
+      "name": "ハダル",
+      "enName": "Hadar",
+      "ra": 210.95,
+      "dec": -60.37,
+      "mag": 0.61,
+      "color": "blue",
+      "size": 4.0
+    },
+    {
+      "id": "Acrux",
+      "name": "アクルックス",
+      "enName": "Acrux",
+      "ra": 186.64,
+      "dec": -63.09,
+      "mag": 0.77,
+      "color": "blue",
+      "size": 4.0
+    },
+    {
+      "id": "Dubhe",
+      "name": "ドゥーベ",
+      "enName": "Dubhe",
+      "ra": 165.93,
+      "dec": 61.75,
+      "mag": 1.79,
+      "color": "orange",
+      "size": 3.5
+    },
+    {
+      "id": "Merak",
+      "name": "メラク",
+      "enName": "Merak",
+      "ra": 165.46,
+      "dec": 56.38,
+      "mag": 2.37,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Phecda",
+      "name": "フェクダ",
+      "enName": "Phecda",
+      "ra": 178.45,
+      "dec": 53.69,
+      "mag": 2.44,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Megrez",
+      "name": "メグレズ",
+      "enName": "Megrez",
+      "ra": 183.85,
+      "dec": 57.03,
+      "mag": 3.31,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Alioth",
+      "name": "アリオト",
+      "enName": "Alioth",
+      "ra": 193.5,
+      "dec": 55.95,
+      "mag": 1.77,
+      "color": "white",
+      "size": 3.5
+    },
+    {
+      "id": "Mizar",
+      "name": "ミザール",
+      "enName": "Mizar",
+      "ra": 200.98,
+      "dec": 54.92,
+      "mag": 2.27,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Alkaid",
+      "name": "アルカイド",
+      "enName": "Alkaid",
+      "ra": 206.88,
+      "dec": 49.31,
+      "mag": 1.86,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Schedar",
+      "name": "シェダル",
+      "enName": "Schedar",
+      "ra": 10.12,
+      "dec": 56.53,
+      "mag": 2.25,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Caph",
+      "name": "カフ",
+      "enName": "Caph",
+      "ra": 3.31,
+      "dec": 59.14,
+      "mag": 2.27,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Tsih",
+      "name": "ツィー",
+      "enName": "Tsih",
+      "ra": 14.17,
+      "dec": 60.71,
+      "mag": 2.47,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Ruchbah",
+      "name": "ルクバー",
+      "enName": "Ruchbah",
+      "ra": 21.45,
+      "dec": 60.23,
+      "mag": 2.68,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Segin",
+      "name": "セギン",
+      "enName": "Segin",
+      "ra": 28.6,
+      "dec": 63.67,
+      "mag": 3.38,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Bellatrix",
+      "name": "ベらトリックス",
+      "enName": "Bellatrix",
+      "ra": 81.28,
+      "dec": 6.35,
+      "mag": 1.64,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Alnitak",
+      "name": "アルニタク",
+      "enName": "Alnitak",
+      "ra": 85.19,
+      "dec": -1.94,
+      "mag": 1.77,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Mintaka",
+      "name": "ミンタカ",
+      "enName": "Mintaka",
+      "ra": 83.0,
+      "dec": -0.29,
+      "mag": 2.23,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Fomalhaut",
+      "name": "フォーマルハウト",
+      "enName": "Fomalhaut",
+      "ra": 344.41,
+      "dec": -29.62,
+      "mag": 1.16,
+      "color": "white",
+      "size": 4.0
+    },
+    {
+      "id": "Denebola",
+      "name": "デネボラ",
+      "enName": "Denebola",
+      "ra": 177.26,
+      "dec": 14.57,
+      "mag": 2.14,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Mirfak",
+      "name": "ミルファク",
+      "enName": "Mirfak",
+      "ra": 51.08,
+      "dec": 49.86,
+      "mag": 1.79,
+      "color": "yellow",
+      "size": 3.5
+    },
+    {
+      "id": "Alpheratz",
+      "name": "アルフェラッツ",
+      "enName": "Alpheratz",
+      "ra": 2.09,
+      "dec": 29.09,
+      "mag": 2.06,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Saiph",
+      "name": "サイフ",
+      "enName": "Saiph",
+      "ra": 86.94,
+      "dec": -9.67,
+      "mag": 2.06,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Elnath",
+      "name": "エルナト",
+      "enName": "Elnath",
+      "ra": 81.57,
+      "dec": 28.6,
+      "mag": 1.65,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Castor",
+      "name": "カストル",
+      "enName": "Castor",
+      "ra": 113.64,
+      "dec": 31.88,
+      "mag": 1.58,
+      "color": "white",
+      "size": 3.5
+    },
+    {
+      "id": "Shaula",
+      "name": "シャウラ",
+      "enName": "Shaula",
+      "ra": 263.4,
+      "dec": -37.1,
+      "mag": 1.63,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Algieba",
+      "name": "アルギエバ",
+      "enName": "Algieba",
+      "ra": 152.09,
+      "dec": 19.84,
+      "mag": 1.99,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Polaris",
+      "name": "ポラリス",
+      "enName": "Polaris",
+      "ra": 37.95,
+      "dec": 89.26,
+      "mag": 1.98,
+      "color": "yellow",
+      "size": 3.0
+    },
+    {
+      "id": "Adhara",
+      "name": "アダラ",
+      "enName": "Adhara",
+      "ra": 104.66,
+      "dec": -28.97,
+      "mag": 1.5,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Wezen",
+      "name": "ウェズン",
+      "enName": "Wezen",
+      "ra": 107.1,
+      "dec": -26.39,
+      "mag": 1.83,
+      "color": "yellow",
+      "size": 3.5
+    },
+    {
+      "id": "Mirzam",
+      "name": "ミルザム",
+      "enName": "Mirzam",
+      "ra": 96.18,
+      "dec": -17.95,
+      "mag": 3.02,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Gomeisa",
+      "name": "ゴメイサ",
+      "enName": "Gomeisa",
+      "ra": 115.49,
+      "dec": 8.28,
+      "mag": 2.89,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Algenib",
+      "name": "アルゲニブ",
+      "enName": "Algenib",
+      "ra": 3.31,
+      "dec": 15.18,
+      "mag": 2.83,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Mirach",
+      "name": "ミラク",
+      "enName": "Mirach",
+      "ra": 17.43,
+      "dec": 35.62,
+      "mag": 2.06,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Almach",
+      "name": "アルマク",
+      "enName": "Almach",
+      "ra": 30.97,
+      "dec": 42.32,
+      "mag": 2.26,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Sadr",
+      "name": "サドル",
+      "enName": "Sadr",
+      "ra": 305.56,
+      "dec": 40.25,
+      "mag": 2.23,
+      "color": "yellow",
+      "size": 3.0
+    },
+    {
+      "id": "Tarazed",
+      "name": "タラゼド",
+      "enName": "Tarazed",
+      "ra": 296.56,
+      "dec": 10.61,
+      "mag": 2.72,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Alshain",
+      "name": "アルシャイン",
+      "enName": "Alshain",
+      "ra": 292.17,
+      "dec": 6.4,
+      "mag": 2.99,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Dschubba",
+      "name": "ジュバ",
+      "enName": "Dschubba",
+      "ra": 240.08,
+      "dec": -19.8,
+      "mag": 2.56,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "KausAustralis",
+      "name": "カウス・アウストラリス",
+      "enName": "Kaus Australis",
+      "ra": 275.24,
+      "dec": -34.38,
+      "mag": 1.85,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Zosma",
+      "name": "ゾスマ",
+      "enName": "Zosma",
+      "ra": 168.56,
+      "dec": 20.52,
+      "mag": 2.56,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Arcturus",
+      "name": "アルクトゥルス",
+      "enName": "Arcturus",
+      "ra": 213.91,
+      "dec": 19.18,
+      "mag": -0.05,
+      "color": "orange",
+      "size": 5.0
+    },
+    {
+      "id": "Nunki",
+      "name": "ヌンキ",
+      "enName": "Nunki",
+      "ra": 283.81,
+      "dec": -26.3,
+      "mag": 2.05,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Alphecca",
+      "name": "アルフェッカ",
+      "enName": "Alphecca",
+      "ra": 233.67,
+      "dec": 26.71,
+      "mag": 2.23,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Rasalhague",
+      "name": "ラス・アルハゲ",
+      "enName": "Rasalhague",
+      "ra": 263.73,
+      "dec": 12.56,
+      "mag": 2.08,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Sabik",
+      "name": "サビク",
+      "enName": "Sabik",
+      "ra": 239.71,
+      "dec": -15.72,
+      "mag": 2.43,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Enif",
+      "name": "エニフ",
+      "enName": "Enif",
+      "ra": 330.49,
+      "dec": 9.87,
+      "mag": 2.38,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Markab",
+      "name": "マルカブ",
+      "enName": "Markab",
+      "ra": 346.19,
+      "dec": 15.2,
+      "mag": 2.49,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Scheat",
+      "name": "シェアト",
+      "enName": "Scheat",
+      "ra": 344.41,
+      "dec": 28.08,
+      "mag": 2.42,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "CorCaroli",
+      "name": "コル・カロリ",
+      "enName": "Cor Caroli",
+      "ra": 194.01,
+      "dec": 38.32,
+      "mag": 2.9,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Miaplacidus",
+      "name": "ミラプラキドゥス",
+      "enName": "Miaplacidus",
+      "ra": 140.53,
+      "dec": -69.72,
+      "mag": 1.68,
+      "color": "white",
+      "size": 3.5
+    },
+    {
+      "id": "Alnair",
+      "name": "アルナイル",
+      "enName": "Alnair",
+      "ra": 218.87,
+      "dec": -47.34,
+      "mag": 2.75,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Menkalinan",
+      "name": "メンカリナン",
+      "enName": "Menkalinan",
+      "ra": 89.93,
+      "dec": 44.95,
+      "mag": 1.9,
+      "color": "white",
+      "size": 3.5
+    },
+    {
+      "id": "Hamal",
+      "name": "ハマル",
+      "enName": "Hamal",
+      "ra": 31.79,
+      "dec": 23.46,
+      "mag": 2.0,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Sheratan",
+      "name": "シェラタン",
+      "enName": "Sheratan",
+      "ra": 28.66,
+      "dec": 20.81,
+      "mag": 2.64,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Diphda",
+      "name": "ディフダ",
+      "enName": "Diphda",
+      "ra": 10.9,
+      "dec": -17.99,
+      "mag": 2.04,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Algol",
+      "name": "アルゴル",
+      "enName": "Algol",
+      "ra": 47.04,
+      "dec": 40.96,
+      "mag": 2.12,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Alderamin",
+      "name": "アルデラミン",
+      "enName": "Alderamin",
+      "ra": 319.64,
+      "dec": 62.59,
+      "mag": 2.44,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Menkar",
+      "name": "メンカル",
+      "enName": "Menkar",
+      "ra": 47.58,
+      "dec": 3.23,
+      "mag": 2.53,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Zaurak",
+      "name": "ザウラク",
+      "enName": "Zaurak",
+      "ra": 59.51,
+      "dec": -13.51,
+      "mag": 2.95,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Acamar",
+      "name": "アカマル",
+      "enName": "Acamar",
+      "ra": 44.57,
+      "dec": -40.3,
+      "mag": 2.88,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Kursa",
+      "name": "クルサ",
+      "enName": "Kursa",
+      "ra": 62.97,
+      "dec": -5.09,
+      "mag": 2.79,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "RigilKentaurus",
+      "name": "リゲル・ケンタウルス",
+      "enName": "Rigil Kentaurus",
+      "ra": 219.9,
+      "dec": -60.83,
+      "mag": -0.01,
+      "color": "yellow",
+      "size": 5.0
+    },
+    {
+      "id": "Mimosa",
+      "name": "ミモザ",
+      "enName": "Mimosa",
+      "ra": 192.72,
+      "dec": -59.69,
+      "mag": 1.25,
+      "color": "blue",
+      "size": 4.0
+    },
+    {
+      "id": "Avior",
+      "name": "アヴィオール",
+      "enName": "Avior",
+      "ra": 125.63,
+      "dec": -59.51,
+      "mag": 1.86,
+      "color": "orange",
+      "size": 3.5
+    },
+    {
+      "id": "Menkib",
+      "name": "メンカブ",
+      "enName": "Menkib",
+      "ra": 82.06,
+      "dec": 6.96,
+      "mag": 2.76,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Alhena",
+      "name": "アルヘナ",
+      "enName": "Alhena",
+      "ra": 99.43,
+      "dec": 16.4,
+      "mag": 1.93,
+      "color": "white",
+      "size": 3.5
+    },
+    {
+      "id": "Tejat",
+      "name": "ティシェー",
+      "enName": "Tejat",
+      "ra": 95.74,
+      "dec": 22.51,
+      "mag": 2.87,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Mebsuta",
+      "name": "メブスタ",
+      "enName": "Mebsuta",
+      "ra": 100.98,
+      "dec": 25.13,
+      "mag": 2.98,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Naos",
+      "name": "ナオス",
+      "enName": "Naos",
+      "ra": 120.9,
+      "dec": -40.0,
+      "mag": 2.21,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Alphard",
+      "name": "アルファルド",
+      "enName": "Alphard",
+      "ra": 141.9,
+      "dec": -8.66,
+      "mag": 1.98,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Eltanin",
+      "name": "エルタニン",
+      "enName": "Eltanin",
+      "ra": 269.15,
+      "dec": 51.49,
+      "mag": 2.23,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Rastaban",
+      "name": "ラスタバン",
+      "enName": "Rastaban",
+      "ra": 262.61,
+      "dec": 52.3,
+      "mag": 2.79,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Altais",
+      "name": "アルタイス",
+      "enName": "Altais",
+      "ra": 287.8,
+      "dec": 67.6,
+      "mag": 3.07,
+      "color": "yellow",
+      "size": 3.0
+    },
+    {
+      "id": "Ascella",
+      "name": "アスケラ",
+      "enName": "Ascella",
+      "ra": 287.44,
+      "dec": -27.67,
+      "mag": 2.7,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "KausMedia",
+      "name": "カウス・メディア",
+      "enName": "Media",
+      "ra": 279.03,
+      "dec": -29.82,
+      "mag": 2.72,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Albireo",
+      "name": "アルビレオ",
+      "enName": "Albireo",
+      "ra": 292.68,
+      "dec": 27.96,
+      "mag": 3.05,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Dabih",
+      "name": "ダビー",
+      "enName": "Dabih",
+      "ra": 305.25,
+      "dec": -14.78,
+      "mag": 3.08,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Alphirk",
+      "name": "アルフィルク",
+      "enName": "Alphirk",
+      "ra": 320.96,
+      "dec": 70.56,
+      "mag": 3.23,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Alrai",
+      "name": "アルライ",
+      "enName": "Alrai",
+      "ra": 326.05,
+      "dec": 62.59,
+      "mag": 3.77,
+      "color": "yellow",
+      "size": 2.0
+    },
+    {
+      "id": "Akrab",
+      "name": "アクラブ",
+      "enName": "Akrab",
+      "ra": 239.71,
+      "dec": -19.8,
+      "mag": 2.9,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Thuban",
+      "name": "トゥバン",
+      "enName": "Thuban",
+      "ra": 211.1,
+      "dec": 64.38,
+      "mag": 3.67,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "Menkent",
+      "name": "メンケント",
+      "enName": "Menkent",
+      "ra": 211.52,
+      "dec": -36.37,
+      "mag": 2.06,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Sadalmelik",
+      "name": "サダルメリク",
+      "enName": "Sadalmelik",
+      "ra": 337.4,
+      "dec": -0.02,
+      "mag": 2.95,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Sadalsuud",
+      "name": "サダルスウド",
+      "enName": "Sadalsuud",
+      "ra": 332.06,
+      "dec": -5.57,
+      "mag": 2.87,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Tureis",
+      "name": "タウ・カリーナエ",
+      "enName": "Tureis",
+      "ra": 158.01,
+      "dec": -60.72,
+      "mag": 2.37,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Alnilam",
+      "name": "アルニラム",
+      "enName": "Alnilam",
+      "ra": 84.05,
+      "dec": -1.2,
+      "mag": 1.69,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "BatenKaitos",
+      "name": "バテン・カイトス",
+      "enName": "Baten Kaitos",
+      "ra": 31.79,
+      "dec": -10.34,
+      "mag": 3.73,
+      "color": "orange",
+      "size": 2.0
+    },
+    {
+      "id": "Sadatoni",
+      "name": "サダトニ",
+      "enName": "Sadatoni",
+      "ra": 315.6,
+      "dec": -9.5,
+      "mag": 2.9,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Skat",
+      "name": "スカト",
+      "enName": "Skat",
+      "ra": 333.21,
+      "dec": -32.35,
+      "mag": 3.62,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "DenebAlgedi",
+      "name": "デネブ・アルギエディ",
+      "enName": "Deneb Algedi",
+      "ra": 326.76,
+      "dec": -16.13,
+      "mag": 2.85,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Mira",
+      "name": "ミラ",
+      "enName": "Mira",
+      "ra": 34.84,
+      "dec": -2.98,
+      "mag": 2.0,
+      "color": "red",
+      "size": 3.0
+    },
+    {
+      "id": "Gacrux",
+      "name": "ガクルックス",
+      "enName": "Gacrux",
+      "ra": 187.79,
+      "dec": -57.11,
+      "mag": 1.63,
+      "color": "orange",
+      "size": 3.5
+    },
+    {
+      "id": "DeltaCrucis",
+      "name": "デルタ・クルーシス",
+      "enName": "Delta Crucis",
+      "ra": 183.79,
+      "dec": -58.75,
+      "mag": 2.8,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Ginan",
+      "name": "ギナン",
+      "enName": "Ginan",
+      "ra": 185.34,
+      "dec": -60.31,
+      "mag": 3.59,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Meissa",
+      "name": "メイサ",
+      "enName": "Meissa",
+      "ra": 83.78,
+      "dec": 9.93,
+      "mag": 3.39,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Navi",
+      "name": "ナヴィ",
+      "enName": "Navi",
+      "ra": 14.18,
+      "dec": 60.72,
+      "mag": 2.15,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Hatysa",
+      "name": "ハティサ",
+      "enName": "Hatysa",
+      "ra": 83.8583,
+      "dec": -5.9099,
+      "mag": 2.77,
+      "color": "blue",
+      "size": 2.8
+    },
+    {
+      "id": "SigmaOrionis",
+      "name": "シグマ・オリオニス",
+      "enName": "Sigma Orionis",
+      "ra": 84.6865,
+      "dec": -2.6001,
+      "mag": 3.8,
+      "color": "blue",
+      "size": 2.3
+    },
+    {
+      "id": "Tabit",
+      "name": "タビト",
+      "enName": "Tabit",
+      "ra": 72.4601,
+      "dec": 6.9613,
+      "mag": 3.19,
+      "color": "yellow",
+      "size": 2.4
+    },
+    {
+      "id": "EtaOrionis",
+      "name": "イータ・オリオニス",
+      "enName": "Eta Orionis",
+      "ra": 81.12,
+      "dec": -2.4,
+      "mag": 3.4,
+      "color": "blue",
+      "size": 2.0
+    },
+    {
+      "id": "Alcor",
+      "name": "アルコル",
+      "enName": "Alcor",
+      "ra": 201.12,
+      "dec": 54.99,
+      "mag": 3.99,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Peacock",
+      "name": "ピーコック",
+      "enName": "Peacock",
+      "ra": 306.41,
+      "dec": -56.73,
+      "mag": 1.94,
+      "color": "blue",
+      "size": 3.5
+    },
+    {
+      "id": "Atria",
+      "name": "アトリア",
+      "enName": "Atria",
+      "ra": 251.15,
+      "dec": -69.02,
+      "mag": 1.91,
+      "color": "orange",
+      "size": 3.5
+    },
+    {
+      "id": "Rasalgethi",
+      "name": "ラス・アルゲティ",
+      "enName": "Rasalgethi",
+      "ra": 257.53,
+      "dec": 14.39,
+      "mag": 3.48,
+      "color": "red",
+      "size": 2.5
+    },
+    {
+      "id": "Sheliak",
+      "name": "シェリアク",
+      "enName": "Sheliak",
+      "ra": 282.52,
+      "dec": 33.36,
+      "mag": 3.45,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Sulafat",
+      "name": "スラファト",
+      "enName": "Sulafat",
+      "ra": 283.39,
+      "dec": 32.68,
+      "mag": 3.22,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Aljanah",
+      "name": "アルジャナ",
+      "enName": "Aljanah",
+      "ra": 311.55,
+      "dec": 33.97,
+      "mag": 2.48,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Sargas",
+      "name": "サルガス",
+      "enName": "Sargas",
+      "ra": 264.33,
+      "dec": -42.99,
+      "mag": 1.86,
+      "color": "yellow",
+      "size": 3.5
+    },
+    {
+      "id": "Lesath",
+      "name": "レサト",
+      "enName": "Lesath",
+      "ra": 264.12,
+      "dec": -37.22,
+      "mag": 2.69,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Izar",
+      "name": "アイザール",
+      "enName": "Izar",
+      "ra": 221.25,
+      "dec": 27.08,
+      "mag": 2.35,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Muphrid",
+      "name": "ムフリッド",
+      "enName": "Muphrid",
+      "ra": 208.62,
+      "dec": 18.39,
+      "mag": 2.68,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Unukalhai",
+      "name": "ウヌクアルハイ",
+      "enName": "Unukalhai",
+      "ra": 236.06,
+      "dec": 6.43,
+      "mag": 2.63,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Zubeneschamali",
+      "name": "ズベン・エス・カマリ",
+      "enName": "Zubeneschamali",
+      "ra": 229.25,
+      "dec": -9.38,
+      "mag": 2.61,
+      "color": "blue",
+      "size": 3.7
+    },
+    {
+      "id": "Zubenelgenubi",
+      "name": "ズベン・エル・ゲヌビ",
+      "enName": "Zubenelgenubi",
+      "ra": 222.72,
+      "dec": -16.04,
+      "mag": 2.75,
+      "color": "white",
+      "size": 3.6
+    },
+    {
+      "id": "Zubenelhakrabi",
+      "name": "ズベン・エル・ハクラビ",
+      "enName": "Zubenelhakrabi",
+      "ra": 233.88,
+      "dec": -14.79,
+      "mag": 3.91,
+      "color": "orange",
+      "size": 2.8
+    },
+    {
+      "id": "EpsilonLibrae",
+      "name": "エプシロン・リーブラエ",
+      "enName": "Epsilon Librae",
+      "ra": 233.7,
+      "dec": -10.064,
+      "mag": 4.9,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "NuLibrae",
+      "name": "ニュー・リーブラエ",
+      "enName": "Nu Librae",
+      "ra": 226.28,
+      "dec": -16.253,
+      "mag": 5.2,
+      "color": "white",
+      "size": 2.3
+    },
+    {
+      "id": "TauLibrae",
+      "name": "てんびん座τ星",
+      "enName": "Tau Librae",
+      "ra": 234.66,
+      "dec": -29.777,
+      "mag": 3.66,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "YedPrior",
+      "name": "イェド・プリオル",
+      "enName": "Yed Prior",
+      "ra": 243.59,
+      "dec": -3.69,
+      "mag": 2.73,
+      "color": "red",
+      "size": 2.5
+    },
+    {
+      "id": "Cebalrai",
+      "name": "セバルライ",
+      "enName": "Cebalrai",
+      "ra": 265.84,
+      "dec": 4.57,
+      "mag": 2.76,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "KausBorealis",
+      "name": "カウス・ボレアリス",
+      "enName": "Kaus Borealis",
+      "ra": 277.05,
+      "dec": -25.42,
+      "mag": 2.82,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Algedi",
+      "name": "アルゲディ",
+      "enName": "Algedi",
+      "ra": 304.6,
+      "dec": -12.5,
+      "mag": 3.58,
+      "color": "yellow",
+      "size": 2.2
+    },
+    {
+      "id": "Sadachbia",
+      "name": "サダクビア",
+      "enName": "Sadachbia",
+      "ra": 335.25,
+      "dec": -1.38,
+      "mag": 3.84,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "Matar",
+      "name": "マタル",
+      "enName": "Matar",
+      "ra": 340.8,
+      "dec": 30.22,
+      "mag": 2.93,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Homam",
+      "name": "ホマム",
+      "enName": "Homam",
+      "ra": 340.28,
+      "dec": 10.83,
+      "mag": 3.41,
+      "color": "blue",
+      "size": 2.2
+    },
+    {
+      "id": "Biham",
+      "name": "ビハム",
+      "enName": "Biham",
+      "ra": 332.5,
+      "dec": 6.2,
+      "mag": 3.53,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Pherkad",
+      "name": "フェルカド",
+      "enName": "Pherkad",
+      "ra": 230.17,
+      "dec": 71.83,
+      "mag": 3.0,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Phact",
+      "name": "ファクト",
+      "enName": "Phact",
+      "ra": 84.81,
+      "dec": -34.07,
+      "mag": 2.65,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "Aspidiske",
+      "name": "アスピディスケ",
+      "enName": "Aspidiske",
+      "ra": 139.31,
+      "dec": -59.27,
+      "mag": 2.21,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Alsuhail",
+      "name": "アルスハイル",
+      "enName": "Alsuhail",
+      "ra": 137.28,
+      "dec": -43.43,
+      "mag": 2.21,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Regor",
+      "name": "レゴール",
+      "enName": "Regor",
+      "ra": 122.31,
+      "dec": -47.34,
+      "mag": 1.75,
+      "color": "blue",
+      "size": 3.8
+    },
+    {
+      "id": "Muliphein",
+      "name": "ムリフェイン",
+      "enName": "Muliphein",
+      "ra": 106.05,
+      "dec": -15.53,
+      "mag": 4.1,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "Atlas",
+      "name": "アトラス",
+      "enName": "Atlas",
+      "ra": 57.29,
+      "dec": 24.05,
+      "mag": 3.62,
+      "color": "blue",
+      "size": 2.2
+    },
+    {
+      "id": "Aludra",
+      "name": "アルドラ",
+      "enName": "Aludra",
+      "ra": 111.02,
+      "dec": -29.3,
+      "mag": 2.45,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "Wasat",
+      "name": "ワサト",
+      "enName": "Wasat",
+      "ra": 110.03,
+      "dec": 21.98,
+      "mag": 3.5,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Alnasl",
+      "name": "アルナスル",
+      "enName": "Alnasl",
+      "ra": 271.44,
+      "dec": -29.86,
+      "mag": 2.98,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Wei",
+      "name": "ウェイ",
+      "enName": "Wei",
+      "ra": 251.29,
+      "dec": -34.29,
+      "mag": 2.29,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Sarr",
+      "name": "サッル",
+      "enName": "Sarr",
+      "ra": 264.33,
+      "dec": -42.99,
+      "mag": 1.86,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Mesarthim",
+      "name": "メサルティム",
+      "enName": "Mesarthim",
+      "ra": 28.38,
+      "dec": 19.29,
+      "mag": 3.88,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Acubens",
+      "name": "アクベンス",
+      "enName": "Acubens",
+      "ra": 134.62,
+      "dec": 11.86,
+      "mag": 4.26,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "AsellusAustralisCnc",
+      "name": "アセルス・アウストラリス (蟹)",
+      "enName": "Asellus Australis Cnc",
+      "ra": 131.17,
+      "dec": 18.15,
+      "mag": 3.94,
+      "color": "orange",
+      "size": 2.2
+    },
+    {
+      "id": "AsellusBorealis",
+      "name": "アセルス・ボレアリス",
+      "enName": "Asellus Borealis",
+      "ra": 130.82,
+      "dec": 21.47,
+      "mag": 4.66,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "IotaCancri",
+      "name": "イオタ・カンクリ",
+      "enName": "Iota Cancri",
+      "ra": 131.67,
+      "dec": 28.76,
+      "mag": 4.03,
+      "color": "yellow",
+      "size": 2.2
+    },
+    {
+      "id": "Zavijava",
+      "name": "ザヴィヤヴァ",
+      "enName": "Zavijava",
+      "ra": 177.67,
+      "dec": 1.76,
+      "mag": 3.6,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Auva",
+      "name": "アウヴァ",
+      "enName": "Auva",
+      "ra": 193.9,
+      "dec": 3.4,
+      "mag": 3.4,
+      "color": "red",
+      "size": 2.5
+    },
+    {
+      "id": "Heze",
+      "name": "ヘゼ",
+      "enName": "Heze",
+      "ra": 203.67,
+      "dec": -0.6,
+      "mag": 3.38,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Brachium",
+      "name": "ブラキウム",
+      "enName": "Brachium",
+      "ra": 226.02,
+      "dec": -25.28,
+      "mag": 3.25,
+      "color": "red",
+      "size": 2.5
+    },
+    {
+      "id": "Nashira",
+      "name": "ナシラ",
+      "enName": "Nashira",
+      "ra": 325.02,
+      "dec": -16.66,
+      "mag": 3.69,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Albali",
+      "name": "アルバリ",
+      "enName": "Albali",
+      "ra": 311.92,
+      "dec": -9.5,
+      "mag": 3.77,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Alrescha",
+      "name": "アルレシャ",
+      "enName": "Alrescha",
+      "ra": 30.51,
+      "dec": 2.7,
+      "mag": 3.82,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Zubenelakrab",
+      "name": "ズベン・エル・アクラブ",
+      "enName": "Zubenelakrab",
+      "ra": 233.97,
+      "dec": -14.79,
+      "mag": 3.91,
+      "color": "orange",
+      "size": 2.2
+    },
+    {
+      "id": "Mahasim",
+      "name": "マハシム",
+      "enName": "Mahasim",
+      "ra": 89.93,
+      "dec": 37.21,
+      "mag": 2.62,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Hassaleh",
+      "name": "ハサレ",
+      "enName": "Hassaleh",
+      "ra": 74.03,
+      "dec": 33.17,
+      "mag": 2.69,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "DenebOkab",
+      "name": "デネブ・オカブ",
+      "enName": "Deneb Okab",
+      "ra": 286.35,
+      "dec": 13.85,
+      "mag": 2.99,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "DeltaAquilae",
+      "name": "デルタ・アクイラエ",
+      "enName": "Delta Aquilae",
+      "ra": 291.22,
+      "dec": 3.11,
+      "mag": 3.36,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "AlThalimain",
+      "name": "アル・タリマイン",
+      "enName": "Al Thalimain",
+      "ra": 286.5,
+      "dec": -4.88,
+      "mag": 3.43,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "ZetaOphiuchi",
+      "name": "ゼータ・オフィウキ",
+      "enName": "Zeta Ophiuchi",
+      "ra": 249.25,
+      "dec": -10.57,
+      "mag": 2.57,
+      "color": "blue",
+      "size": 3.0
+    },
+    {
+      "id": "KappaOphiuchi",
+      "name": "カッパ・オフィウキ",
+      "enName": "Kappa Ophiuchi",
+      "ra": 254.44,
+      "dec": 9.39,
+      "mag": 3.2,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "YedPosterior",
+      "name": "イェド・ポステリオル",
+      "enName": "Yed Posterior",
+      "ra": 244.67,
+      "dec": -4.69,
+      "mag": 3.24,
+      "color": "red",
+      "size": 2.5
+    },
+    {
+      "id": "Kochab",
+      "name": "コカブ",
+      "enName": "Kochab",
+      "ra": 222.68,
+      "dec": 74.16,
+      "mag": 2.08,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "EpsilonUrsaeMinoris",
+      "name": "イプシロン・ウルサエ・ミノリス",
+      "enName": "Epsilon Ursae Minoris",
+      "ra": 254.67,
+      "dec": 82.03,
+      "mag": 4.21,
+      "color": "yellow",
+      "size": 2.0
+    },
+    {
+      "id": "DeltaUrsaeMinoris",
+      "name": "デルタ・ウルサエ・ミノリス",
+      "enName": "Delta Ursae Minoris",
+      "ra": 268.65,
+      "dec": 86.58,
+      "mag": 4.35,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "ZetaUrsaeMinoris",
+      "name": "ゼータ・ウルサエ・ミノリス",
+      "enName": "Zeta Ursae Minoris",
+      "ra": 236.0,
+      "dec": 77.79,
+      "mag": 4.29,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "EtaUrsaeMinoris",
+      "name": "イータ・ウルサエ・ミノリス",
+      "enName": "Eta Ursae Minoris",
+      "ra": 244.4,
+      "dec": 75.75,
+      "mag": 4.95,
+      "color": "white",
+      "size": 2.0
+    },
+    {
+      "id": "HyadumI",
+      "name": "ヒアドゥム1",
+      "enName": "Hyadum I",
+      "ra": 66.73,
+      "dec": 15.63,
+      "mag": 3.65,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "Chertan",
+      "name": "ケルタン",
+      "enName": "Chertan",
+      "ra": 167.6,
+      "dec": 14.5,
+      "mag": 3.3,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "EtaPiscium",
+      "name": "イータ・ピスキウム",
+      "enName": "Eta Piscium",
+      "ra": 23.2,
+      "dec": 15.3,
+      "mag": 3.6,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "OmegaPiscium",
+      "name": "オメガ・ピスキウム",
+      "enName": "Omega Piscium",
+      "ra": 359.8,
+      "dec": 6.9,
+      "mag": 4.0,
+      "color": "white",
+      "size": 2.3
+    },
+    {
+      "id": "DeltaPiscium",
+      "name": "デルタ・ピスキウム",
+      "enName": "Delta Piscium",
+      "ra": 10.1,
+      "dec": 7.5,
+      "mag": 4.4,
+      "color": "orange",
+      "size": 2.2
+    },
+    {
+      "id": "Zaniah",
+      "name": "ザニア",
+      "enName": "Zaniah",
+      "ra": 185.0,
+      "dec": -0.7,
+      "mag": 3.89,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "Syrma",
+      "name": "シルマ",
+      "enName": "Syrma",
+      "ra": 214.0,
+      "dec": -6.0,
+      "mag": 4.07,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Vindemiatrix",
+      "name": "ビンデミアトリックス",
+      "enName": "Vindemiatrix",
+      "ra": 195.54,
+      "dec": 10.96,
+      "mag": 2.85,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "Porrima",
+      "name": "ポリマ",
+      "enName": "Porrima",
+      "ra": 190.41,
+      "dec": -1.45,
+      "mag": 2.74,
+      "color": "white",
+      "size": 2.5
+    },
+    {
+      "id": "UpsilonLibrae",
+      "name": "てんびん座υ星",
+      "enName": "Upsilon Librae",
+      "ra": 233.66,
+      "dec": -28.14,
+      "mag": 3.6,
+      "color": "orange",
+      "size": 3.0
+    },
+    {
+      "id": "Arneb",
+      "name": "アルネブ",
+      "enName": "Arneb",
+      "ra": 83.18,
+      "dec": -17.82,
+      "mag": 2.58,
+      "color": "white",
+      "size": 3.0
+    },
+    {
+      "id": "Nihal",
+      "name": "ニハル",
+      "enName": "Nihal",
+      "ra": 82.06,
+      "dec": -20.76,
+      "mag": 2.84,
+      "color": "yellow",
+      "size": 2.5
+    },
+    {
+      "id": "EpsilonLeporis",
+      "name": "うさぎ座ε星",
+      "enName": "Epsilon Leporis",
+      "ra": 76.36,
+      "dec": -22.37,
+      "mag": 3.19,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "MuLeporis",
+      "name": "うさぎ座μ星",
+      "enName": "Mu Leporis",
+      "ra": 78.23,
+      "dec": -16.21,
+      "mag": 3.29,
+      "color": "blue",
+      "size": 2.5
+    },
+    {
+      "id": "ZetaLeporis",
+      "name": "うさぎ座ζ星",
+      "enName": "Zeta Leporis",
+      "ra": 86.74,
+      "dec": -14.82,
+      "mag": 3.52,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "GammaLeporis",
+      "name": "うさぎ座γ星",
+      "enName": "Gamma Leporis",
+      "ra": 86.11,
+      "dec": -22.45,
+      "mag": 3.59,
+      "color": "yellow",
+      "size": 2.2
+    },
+    {
+      "id": "DeltaLeporis",
+      "name": "うさぎ座δ星",
+      "enName": "Delta Leporis",
+      "ra": 87.83,
+      "dec": -20.88,
+      "mag": 3.73,
+      "color": "orange",
+      "size": 2.2
+    },
+    {
+      "id": "DeltaAndromedae",
+      "name": "アンドロメダ座δ星",
+      "enName": "Delta Andromedae",
+      "ra": 6.02,
+      "dec": 30.86,
+      "mag": 3.27,
+      "color": "orange",
+      "size": 2.5
+    },
+    {
+      "id": "MuAndromedae",
+      "name": "アンドロメダ座μ星",
+      "enName": "Mu Andromedae",
+      "ra": 14.18,
+      "dec": 38.51,
+      "mag": 3.87,
+      "color": "white",
+      "size": 2.2
+    },
+    {
+      "id": "Alkes",
+      "name": "アルケス",
+      "enName": "Alkes",
+      "ra": 164.88,
+      "dec": -17.77,
+      "mag": 4.07,
+      "color": "orange",
+      "size": 2.2
+    }
+  ],
+  "constellationLines": [
+    {
+      "star1Id": "Hamal",
+      "star2Id": "Sheratan",
+      "nameJa": "おひつじ座",
+      "nameEn": "Aries"
+    },
+    {
+      "star1Id": "Sheratan",
+      "star2Id": "Mesarthim",
+      "nameJa": "おひつじ座",
+      "nameEn": "Aries"
+    },
+    {
+      "star1Id": "Aldebaran",
+      "star2Id": "Elnath",
+      "nameJa": "おうし座",
+      "nameEn": "Taurus"
+    },
+    {
+      "star1Id": "Aldebaran",
+      "star2Id": "HyadumI",
+      "nameJa": "おうし座",
+      "nameEn": "Taurus"
+    },
+    {
+      "star1Id": "Castor",
+      "star2Id": "Pollux",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "star1Id": "Castor",
+      "star2Id": "Tejat",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "star1Id": "Tejat",
+      "star2Id": "Alhena",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "star1Id": "Pollux",
+      "star2Id": "Wasat",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "star1Id": "Wasat",
+      "star2Id": "Alhena",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "star1Id": "AsellusBorealis",
+      "star2Id": "AsellusAustralisCnc",
+      "nameJa": "かに座",
+      "nameEn": "Cancer"
+    },
+    {
+      "star1Id": "AsellusAustralisCnc",
+      "star2Id": "Acubens",
+      "nameJa": "かに座",
+      "nameEn": "Cancer"
+    },
+    {
+      "star1Id": "AsellusBorealis",
+      "star2Id": "IotaCancri",
+      "nameJa": "かに座",
+      "nameEn": "Cancer"
+    },
+    {
+      "star1Id": "Regulus",
+      "star2Id": "Algieba",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "star1Id": "Algieba",
+      "star2Id": "Zosma",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "star1Id": "Zosma",
+      "star2Id": "Denebola",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "star1Id": "Regulus",
+      "star2Id": "Chertan",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "star1Id": "Chertan",
+      "star2Id": "Denebola",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "star1Id": "Vindemiatrix",
+      "star2Id": "Auva",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Auva",
+      "star2Id": "Porrima",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Porrima",
+      "star2Id": "Zaniah",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Zaniah",
+      "star2Id": "Zavijava",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Porrima",
+      "star2Id": "Heze",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Heze",
+      "star2Id": "Spica",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Spica",
+      "star2Id": "Syrma",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "star1Id": "Zubeneschamali",
+      "star2Id": "Zubenelgenubi",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "Zubeneschamali",
+      "star2Id": "Zubenelhakrabi",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "Zubenelgenubi",
+      "star2Id": "Brachium",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "Brachium",
+      "star2Id": "Zubenelhakrabi",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "Brachium",
+      "star2Id": "UpsilonLibrae",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "UpsilonLibrae",
+      "star2Id": "TauLibrae",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "star1Id": "Antares",
+      "star2Id": "Dschubba",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "Dschubba",
+      "star2Id": "Akrab",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "Antares",
+      "star2Id": "Wei",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "Wei",
+      "star2Id": "Sargas",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "Sargas",
+      "star2Id": "Shaula",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "Shaula",
+      "star2Id": "Lesath",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "star1Id": "KausBorealis",
+      "star2Id": "KausMedia",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "KausMedia",
+      "star2Id": "KausAustralis",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "KausAustralis",
+      "star2Id": "Alnasl",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "Alnasl",
+      "star2Id": "KausMedia",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "KausMedia",
+      "star2Id": "Ascella",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "Ascella",
+      "star2Id": "Nunki",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "Nunki",
+      "star2Id": "KausBorealis",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "Ascella",
+      "star2Id": "KausAustralis",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "star1Id": "Algedi",
+      "star2Id": "Dabih",
+      "nameJa": "やぎ座",
+      "nameEn": "Capricornus"
+    },
+    {
+      "star1Id": "Dabih",
+      "star2Id": "Nashira",
+      "nameJa": "やぎ座",
+      "nameEn": "Capricornus"
+    },
+    {
+      "star1Id": "Nashira",
+      "star2Id": "DenebAlgedi",
+      "nameJa": "やぎ座",
+      "nameEn": "Capricornus"
+    },
+    {
+      "star1Id": "DenebAlgedi",
+      "star2Id": "Algedi",
+      "nameJa": "やぎ座",
+      "nameEn": "Capricornus"
+    },
+    {
+      "star1Id": "Sadalmelik",
+      "star2Id": "Sadalsuud",
+      "nameJa": "みずがめ座",
+      "nameEn": "Aquarius"
+    },
+    {
+      "star1Id": "Sadalsuud",
+      "star2Id": "Albali",
+      "nameJa": "みずがめ座",
+      "nameEn": "Aquarius"
+    },
+    {
+      "star1Id": "Albali",
+      "star2Id": "Sadachbia",
+      "nameJa": "みずがめ座",
+      "nameEn": "Aquarius"
+    },
+    {
+      "star1Id": "Sadachbia",
+      "star2Id": "Skat",
+      "nameJa": "みずがめ座",
+      "nameEn": "Aquarius"
+    },
+    {
+      "star1Id": "Alrescha",
+      "star2Id": "EtaPiscium",
+      "nameJa": "うお座",
+      "nameEn": "Pisces"
+    },
+    {
+      "star1Id": "Alrescha",
+      "star2Id": "OmegaPiscium",
+      "nameJa": "うお座",
+      "nameEn": "Pisces"
+    },
+    {
+      "star1Id": "Alpheratz",
+      "star2Id": "DeltaPiscium",
+      "nameJa": "うお座",
+      "nameEn": "Pisces"
+    },
+    {
+      "star1Id": "Betelgeuse",
+      "star2Id": "Bellatrix",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Betelgeuse",
+      "star2Id": "Alnitak",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Bellatrix",
+      "star2Id": "Mintaka",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Alnitak",
+      "star2Id": "Alnilam",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Alnilam",
+      "star2Id": "Mintaka",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Alnitak",
+      "star2Id": "Saiph",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Rigel",
+      "star2Id": "Mintaka",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Rigel",
+      "star2Id": "Saiph",
+      "nameJa": "オリオン座",
+      "nameEn": "Orion"
+    },
+    {
+      "star1Id": "Dubhe",
+      "star2Id": "Merak",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Merak",
+      "star2Id": "Phecda",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Phecda",
+      "star2Id": "Megrez",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Megrez",
+      "star2Id": "Alioth",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Alioth",
+      "star2Id": "Mizar",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Mizar",
+      "star2Id": "Alkaid",
+      "nameJa": "おおぐま座",
+      "nameEn": "Ursa Major"
+    },
+    {
+      "star1Id": "Vega",
+      "star2Id": "Sulafat",
+      "nameJa": "こと座",
+      "nameEn": "Lyra"
+    },
+    {
+      "star1Id": "Deneb",
+      "star2Id": "Sadr",
+      "nameJa": "はくちょう座",
+      "nameEn": "Cygnus"
+    },
+    {
+      "star1Id": "Sadr",
+      "star2Id": "Albireo",
+      "nameJa": "はくちょう座",
+      "nameEn": "Cygnus"
+    },
+    {
+      "star1Id": "Polaris",
+      "star2Id": "Kochab",
+      "nameJa": "こぐま座",
+      "nameEn": "Ursa Minor"
+    },
+    {
+      "star1Id": "Arneb",
+      "star2Id": "Nihal",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "Arneb",
+      "star2Id": "MuLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "Nihal",
+      "star2Id": "EpsilonLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "EpsilonLeporis",
+      "star2Id": "MuLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "Nihal",
+      "star2Id": "GammaLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "GammaLeporis",
+      "star2Id": "DeltaLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "Arneb",
+      "star2Id": "ZetaLeporis",
+      "nameJa": "うさぎ座",
+      "nameEn": "Lepus"
+    },
+    {
+      "star1Id": "Alpheratz",
+      "star2Id": "DeltaAndromedae",
+      "nameJa": "アンドロメダ座",
+      "nameEn": "Andromeda"
+    },
+    {
+      "star1Id": "DeltaAndromedae",
+      "star2Id": "Mirach",
+      "nameJa": "アンドロメダ座",
+      "nameEn": "Andromeda"
+    },
+    {
+      "star1Id": "Mirach",
+      "star2Id": "Almach",
+      "nameJa": "アンドロメダ座",
+      "nameEn": "Andromeda"
+    },
+    {
+      "star1Id": "Mirach",
+      "star2Id": "MuAndromedae",
+      "nameJa": "アンドロメダ座",
+      "nameEn": "Andromeda"
+    }
+  ],
+  "shapeLines": [
+    {
+      "nameJa": "秋の四辺形",
+      "nameEn": "Autumn Square",
+      "lines": [
+        {
+          "star1Id": "Markab",
+          "star2Id": "Scheat"
+        },
+        {
+          "star1Id": "Scheat",
+          "star2Id": "Alpheratz"
+        },
+        {
+          "star1Id": "Alpheratz",
+          "star2Id": "Algenib"
+        },
+        {
+          "star1Id": "Algenib",
+          "star2Id": "Markab"
+        }
+      ]
+    },
+    {
+      "nameJa": "冬のダイヤモンド（冬の六角形）",
+      "nameEn": "Winter Hexagon",
+      "lines": [
+        {
+          "star1Id": "Capella",
+          "star2Id": "Castor"
+        },
+        {
+          "star1Id": "Castor",
+          "star2Id": "Pollux"
+        },
+        {
+          "star1Id": "Pollux",
+          "star2Id": "Procyon"
+        },
+        {
+          "star1Id": "Procyon",
+          "star2Id": "Sirius"
+        },
+        {
+          "star1Id": "Sirius",
+          "star2Id": "Rigel"
+        },
+        {
+          "star1Id": "Rigel",
+          "star2Id": "Aldebaran"
+        },
+        {
+          "star1Id": "Aldebaran",
+          "star2Id": "Capella"
+        }
+      ]
+    },
+    {
+      "nameJa": "春の大三角",
+      "nameEn": "Spring Triangle",
+      "lines": [
+        {
+          "star1Id": "Denebola",
+          "star2Id": "Arcturus"
+        },
+        {
+          "star1Id": "Arcturus",
+          "star2Id": "Spica"
+        },
+        {
+          "star1Id": "Spica",
+          "star2Id": "Denebola"
+        }
+      ]
+    },
+    {
+      "nameJa": "夏の大三角",
+      "nameEn": "Summer Triangle",
+      "lines": [
+        {
+          "star1Id": "Vega",
+          "star2Id": "Altair"
+        },
+        {
+          "star1Id": "Altair",
+          "star2Id": "Deneb"
+        },
+        {
+          "star1Id": "Deneb",
+          "star2Id": "Vega"
+        }
+      ]
+    },
+    {
+      "nameJa": "北斗七星",
+      "nameEn": "Big Dipper",
+      "lines": [
+        {
+          "star1Id": "Dubhe",
+          "star2Id": "Merak"
+        },
+        {
+          "star1Id": "Merak",
+          "star2Id": "Phecda"
+        },
+        {
+          "star1Id": "Phecda",
+          "star2Id": "Megrez"
+        },
+        {
+          "star1Id": "Megrez",
+          "star2Id": "Alioth"
+        },
+        {
+          "star1Id": "Alioth",
+          "star2Id": "Mizar"
+        },
+        {
+          "star1Id": "Mizar",
+          "star2Id": "Alkaid"
+        }
+      ]
+    },
+    {
+      "nameJa": "カシオペヤ座W",
+      "nameEn": "Cassiopeia W",
+      "lines": [
+        {
+          "star1Id": "Caph",
+          "star2Id": "Schedar"
+        },
+        {
+          "star1Id": "Schedar",
+          "star2Id": "Tsih"
+        },
+        {
+          "star1Id": "Tsih",
+          "star2Id": "Ruchbah"
+        },
+        {
+          "star1Id": "Ruchbah",
+          "star2Id": "Segin"
+        }
+      ]
+    },
+    {
+      "nameJa": "南十字星",
+      "nameEn": "Southern Cross",
+      "lines": [
+        {
+          "star1Id": "Gacrux",
+          "star2Id": "Acrux"
+        },
+        {
+          "star1Id": "Mimosa",
+          "star2Id": "DeltaCrucis"
+        }
+      ]
+    },
+    {
+      "nameJa": "冬の三角形",
+      "nameEn": "Winter Triangle",
+      "lines": [
+        {
+          "star1Id": "Sirius",
+          "star2Id": "Procyon"
+        },
+        {
+          "star1Id": "Procyon",
+          "star2Id": "Betelgeuse"
+        },
+        {
+          "star1Id": "Betelgeuse",
+          "star2Id": "Sirius"
+        }
+      ]
+    }
+  ],
+  "deepSkyObjects": [
+    {
+      "id": "M31",
+      "name": "アンドロメダ銀河",
+      "enName": "Andromeda Galaxy",
+      "ra": 10.6847,
+      "dec": 41.2687,
+      "mag": 3.4,
+      "type": "galaxy",
+      "majorAxis": 3.2,
+      "minorAxis": 1.0,
+      "positionAngle": 35
+    },
+    {
+      "id": "M42",
+      "name": "オリオン大星雲",
+      "enName": "Orion Nebula",
+      "ra": 83.8221,
+      "dec": -5.3911,
+      "mag": 4.0,
+      "type": "nebula",
+      "majorAxis": 1.2,
+      "minorAxis": 1.0,
+      "positionAngle": 0
+    },
+    {
+      "id": "M45",
+      "name": "すばる星団",
+      "enName": "Pleiades",
+      "ra": 56.75,
+      "dec": 24.12,
+      "mag": 1.6,
+      "type": "cluster",
+      "majorAxis": 2.0,
+      "minorAxis": 2.0,
+      "positionAngle": 0
+    },
+    {
+      "id": "M44",
+      "name": "プレセペ星団",
+      "enName": "Praesepe",
+      "ra": 130.025,
+      "dec": 19.67,
+      "mag": 3.7,
+      "type": "cluster",
+      "majorAxis": 1.6,
+      "minorAxis": 1.6,
+      "positionAngle": 0
+    },
+    {
+      "id": "M13",
+      "name": "ヘルクレス座球状星団",
+      "enName": "Great Hercules Cluster",
+      "ra": 250.423,
+      "dec": 36.461,
+      "mag": 5.8,
+      "type": "globular",
+      "majorAxis": 0.4,
+      "minorAxis": 0.4,
+      "positionAngle": 0
+    },
+    {
+      "id": "M57",
+      "name": "リング星雲",
+      "enName": "Ring Nebula",
+      "ra": 283.396,
+      "dec": 33.03,
+      "mag": 8.8,
+      "type": "nebula",
+      "majorAxis": 0.23,
+      "minorAxis": 0.2,
+      "positionAngle": 0
+    },
+    {
+      "id": "M33",
+      "name": "さんかく座銀河",
+      "enName": "Triangulum Galaxy",
+      "ra": 23.4621,
+      "dec": 30.66,
+      "mag": 5.7,
+      "type": "galaxy",
+      "majorAxis": 1.1,
+      "minorAxis": 0.7,
+      "positionAngle": 23
+    },
+    {
+      "id": "NGC869",
+      "name": "二重星団 h",
+      "enName": "Double Cluster h",
+      "ra": 34.84,
+      "dec": 57.15,
+      "mag": 4.3,
+      "type": "cluster",
+      "majorAxis": 0.5,
+      "minorAxis": 0.5,
+      "positionAngle": 0
+    },
+    {
+      "id": "NGC884",
+      "name": "二重星団 χ",
+      "enName": "Double Cluster χ",
+      "ra": 35.08,
+      "dec": 57.13,
+      "mag": 4.4,
+      "type": "cluster",
+      "majorAxis": 0.5,
+      "minorAxis": 0.5,
+      "positionAngle": 0
+    },
+    {
+      "id": "M8",
+      "name": "干潟星雲",
+      "enName": "Lagoon Nebula",
+      "ra": 270.925,
+      "dec": -24.38,
+      "mag": 6.0,
+      "type": "nebula",
+      "majorAxis": 1.5,
+      "minorAxis": 1.0,
+      "positionAngle": 0
+    },
+    {
+      "id": "M20",
+      "name": "三裂星雲",
+      "enName": "Trifid Nebula",
+      "ra": 270.66,
+      "dec": -23.02,
+      "mag": 6.3,
+      "type": "nebula",
+      "majorAxis": 0.5,
+      "minorAxis": 0.5,
+      "positionAngle": 0
+    },
+    {
+      "id": "M81",
+      "name": "ボーデの銀河",
+      "enName": "Bode's Galaxy",
+      "ra": 148.89,
+      "dec": 69.07,
+      "mag": 6.9,
+      "type": "galaxy",
+      "majorAxis": 0.9,
+      "minorAxis": 0.5,
+      "positionAngle": 157
+    },
+    {
+      "id": "M82",
+      "name": "葉巻銀河",
+      "enName": "Cigar Galaxy",
+      "ra": 148.97,
+      "dec": 69.68,
+      "mag": 8.4,
+      "type": "galaxy",
+      "majorAxis": 0.6,
+      "minorAxis": 0.2,
+      "positionAngle": 65
+    },
+    {
+      "id": "M5",
+      "name": "へび座球状星団",
+      "enName": "Globular Cluster M5",
+      "ra": 229.64,
+      "dec": 2.08,
+      "mag": 5.7,
+      "type": "globular",
+      "majorAxis": 0.4,
+      "minorAxis": 0.4,
+      "positionAngle": 0
+    },
+    {
+      "id": "NGC5139",
+      "name": "オメガ星団",
+      "enName": "Omega Centauri",
+      "ra": 201.7,
+      "dec": -47.48,
+      "mag": 3.9,
+      "type": "globular",
+      "majorAxis": 0.6,
+      "minorAxis": 0.6,
+      "positionAngle": 0
+    },
+    {
+      "id": "M51",
+      "name": "子持ち銀河",
+      "enName": "Whirlpool Galaxy",
+      "ra": 202.72,
+      "dec": 47.19,
+      "mag": 8.4,
+      "type": "galaxy",
+      "majorAxis": 0.18,
+      "minorAxis": 0.12,
+      "positionAngle": 0
+    },
+    {
+      "id": "M16",
+      "name": "わし星雲",
+      "enName": "Eagle Nebula",
+      "ra": 274.7,
+      "dec": -13.82,
+      "mag": 6.0,
+      "type": "nebula",
+      "majorAxis": 0.11,
+      "minorAxis": 0.11,
+      "positionAngle": 0
+    },
+    {
+      "id": "M1",
+      "name": "かに星雲",
+      "enName": "Crab Nebula",
+      "ra": 83.63,
+      "dec": 22.01,
+      "mag": 8.4,
+      "type": "nebula",
+      "majorAxis": 0.1,
+      "minorAxis": 0.07,
+      "positionAngle": 150
+    },
+    {
+      "id": "M104",
+      "name": "ソンブレロ銀河",
+      "enName": "Sombrero Galaxy",
+      "ra": 189.99,
+      "dec": -11.62,
+      "mag": 8.0,
+      "type": "galaxy",
+      "majorAxis": 0.15,
+      "minorAxis": 0.06,
+      "positionAngle": 90
+    },
+    {
+      "id": "M6",
+      "name": "バタフライ星団",
+      "enName": "Butterfly Cluster",
+      "ra": 265.0,
+      "dec": -32.25,
+      "mag": 4.2,
+      "type": "cluster",
+      "majorAxis": 0.5,
+      "minorAxis": 0.5,
+      "positionAngle": 0
+    },
+    {
+      "id": "M7",
+      "name": "プトレマイオス星団",
+      "enName": "Ptolemy's Cluster",
+      "ra": 268.4,
+      "dec": -34.8,
+      "mag": 3.3,
+      "type": "cluster",
+      "majorAxis": 1.3,
+      "minorAxis": 1.3,
+      "positionAngle": 0
+    },
+    {
+      "id": "M101",
+      "name": "回転花火銀河",
+      "enName": "Pinwheel Galaxy",
+      "ra": 210.8,
+      "dec": 54.35,
+      "mag": 7.9,
+      "type": "galaxy",
+      "majorAxis": 0.47,
+      "minorAxis": 0.45,
+      "positionAngle": 0
+    },
+    {
+      "id": "Melotte111",
+      "name": "かみのけ座星団",
+      "enName": "Coma Star Cluster",
+      "ra": 185.5,
+      "dec": 25.8,
+      "mag": 1.8,
+      "type": "cluster",
+      "majorAxis": 4.5,
+      "minorAxis": 4.5,
+      "positionAngle": 0
+    },
+    {
+      "id": "M65",
+      "name": "M65銀河",
+      "enName": "Leo Triplet M65",
+      "ra": 169.73,
+      "dec": 13.09,
+      "mag": 9.3,
+      "type": "galaxy",
+      "majorAxis": 0.15,
+      "minorAxis": 0.04,
+      "positionAngle": 170
+    },
+    {
+      "id": "M66",
+      "name": "M66銀河",
+      "enName": "Leo Triplet M66",
+      "ra": 170.06,
+      "dec": 12.99,
+      "mag": 8.9,
+      "type": "galaxy",
+      "majorAxis": 0.15,
+      "minorAxis": 0.07,
+      "positionAngle": 170
+    },
+    {
+      "id": "M87",
+      "name": "おとめ座A (M87)",
+      "enName": "Virgo A Galaxy",
+      "ra": 187.71,
+      "dec": 12.39,
+      "mag": 8.6,
+      "type": "galaxy",
+      "majorAxis": 0.12,
+      "minorAxis": 0.12,
+      "positionAngle": 0
+    },
+    {
+      "id": "M84",
+      "name": "M84 (マルカリアン鎖)",
+      "enName": "Markarian's Chain M84",
+      "ra": 186.26,
+      "dec": 12.88,
+      "mag": 9.1,
+      "type": "galaxy",
+      "majorAxis": 0.08,
+      "minorAxis": 0.07,
+      "positionAngle": 0
+    }
+  ]
+}
