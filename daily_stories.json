@@ -131,7 +131,7 @@
     "mythologyEn": "Representing Princess Andromeda, daughter of Cassiopeia. She was rescued by Perseus just as she was to be sacrificed to a sea monster.",
     "triviaJa": "アンドロメダ銀河は、私たちの天の川銀河に少しずつ近づいています。約40億年後には二つの銀河が衝突し、一つの巨大な銀河になると考えられています。",
     "triviaEn": "The Andromeda Galaxy is slowly approaching our Milky Way. In about 4 billion years, the two are expected to collide and merge.",
-    "targetId": "Schedar",
+    "targetId": "Alpheratz",
     "targetShape": "アンドロメダ座"
   },
   "10": {
@@ -567,7 +567,7 @@
     "triviaJa": "東北地方より北では見ることができません。東京付近でも、地平線からわずか数度しか上がりません。",
     "triviaEn": "Canopus is invisible from northern Japan. Even in Tokyo, it only rises a few degrees above the southern horizon.",
     "targetId": "Canopus",
-    "targetShape": "ふたご座"
+    "targetShape": "りゅうこつ座"
   },
   "39": {
     "dateMemo": "2月8日",
@@ -926,8 +926,8 @@
     "mythologyEn": "While once feared as an omen, today we cherish the Blood Moon as a peaceful and majestic cosmic shadow play.",
     "triviaJa": "月が赤く見えるのは、地球の大気で屈折したわずかな赤い光だけが月まで届き、照らしているからです。",
     "triviaEn": "The moon turns red because Earth's atmosphere bends only the red part of the sun's spectrum onto the lunar surface.",
-    "targetId": "Vega",
-    "targetShape": "冬の大三角"
+    "targetId": "Regulus",
+    "targetShape": "しし座"
   },
   "63": {
     "dateMemo": "3月4日",
@@ -1032,7 +1032,7 @@
     "triviaJa": "星々が沈んだ後も、冬のダイヤモンドの一部だったカペラだけは、北の空に遅くまで残っています。",
     "triviaEn": "Even after the others set, Capella lingers longer in the northern sky due to its high northern position.",
     "targetId": "Betelgeuse",
-    "targetShape": "おとめ座"
+    "targetShape": "オリオン座"
   },
   "70": {
     "dateMemo": "3月11日",
@@ -1211,7 +1211,7 @@
     "mythologyEn": "In myth, these stars represent the scales of justice held by the nearby goddess, Virgo.",
     "triviaJa": "ズベンエルゲヌビは太陽の通り道である『黄道』のすぐそばに位置しています。そのため、月や惑星がこの星のすぐ近くを通り過ぎていく様子がたびたび観察されます。星占いの世界では、この星を通過する天体は公正な判断を下すとされることもあります。",
     "triviaEn": "Zubenelgenubi is located very close to the ecliptic, the Sun's apparent path. This means the Moon and planets frequently pass right by it. In astrological traditions, it was sometimes seen as a point where celestial bodies are weighed for their justice and balance.",
-    "targetId": "Spica",
+    "targetId": "Zubenelgenubi",
     "targetShape": "てんびん座"
   },
   "82": {
@@ -1346,7 +1346,7 @@
     "mythologyEn": "The ancients watched the shifting seasons as a grand story of cosmic renewal. Tonight, as the stars of winter fade in the west and the jewels of spring claim the zenith, the universe quietly begins its next chapter.",
     "triviaJa": "4月になると、深夜には夏の星座「さそり座」や「こと座」も顔を出し始めます。",
     "triviaEn": "As April arrives, the early members of the summer sky, like Scorpius and Lyra, will begin to appear late at night.",
-    "targetId": "Acubens",
+    "targetId": "Spica",
     "targetShape": "春の大三角"
   },
   "91": {
@@ -1482,7 +1482,7 @@
     "triviaJa": "からす座の方向には「アンテナ銀河」という、2つの銀河が衝突している有名な天体があります。",
     "triviaEn": "In the direction of Corvus lies the famous Antennae Galaxies, a pair of colliding galaxies.",
     "targetId": "Spica",
-    "targetShape": "かんむり座"
+    "targetShape": "春の大三角"
   },
   "100": {
     "dateMemo": "4月10日",
@@ -1497,7 +1497,7 @@
     "triviaJa": "英語のCrater（クレーター）は「噴火口」という意味ですが、元々は「ボウル（杯）」という言葉が語源です。",
     "triviaEn": "The word 'Crater' usually means a volcanic pit, but it originally comes from the Greek word for 'mixing bowl.'",
     "targetId": "Alphard",
-    "targetShape": "かんむり座"
+    "targetShape": "うみへび座"
   },
   "101": {
     "dateMemo": "4月11日",
@@ -1601,7 +1601,7 @@
     "mythologyEn": "These are the scales of justice held by the goddess Astraea (Virgo) to weigh good and evil.",
     "triviaJa": "元々はさそり座の「ハサミ」の部分でした。名前はアラビア語で「北のハサミ」を意味します。",
     "triviaEn": "It was originally the Scorpion's claws. The name means 'Northern Claw' in Arabic.",
-    "targetId": "Spica",
+    "targetId": "Zubeneschamali",
     "targetShape": "てんびん座"
   },
   "108": {
@@ -1691,8 +1691,8 @@
     "mythologyEn": "Hercules completed 12 labors. Having defeated the Hydra and Lion, he rises tonight as if chasing them across the sky.",
     "triviaJa": "ヘラクレス座には、北半球で最も美しい球状星団「M13」があります。",
     "triviaEn": "Hercules hosts M13, the finest globular cluster visible in the Northern Hemisphere.",
-    "targetId": "Regulus",
-    "targetShape": "こと座"
+    "targetId": "Rasalgethi",
+    "targetShape": "ヘルクレス座"
   },
   "114": {
     "dateMemo": "4月24日",
@@ -1841,7 +1841,7 @@
     "mythologyEn": "In the Golden Age, gods lived with humans. As humans became corrupt, the gods left, but the Goddess of Justice stayed until the end to teach righteousness.",
     "triviaJa": "てんびん座は、黄道十二星座の中で唯一、生き物ではなく「道具」の星座です。",
     "triviaEn": "Libra is the only constellation in the Zodiac represented by an object rather than a living creature.",
-    "targetId": "Spica",
+    "targetId": "Zubeneschamali",
     "targetShape": "てんびん座"
   },
   "124": {
@@ -1961,7 +1961,7 @@
     "mythologyEn": "At the feet of the Goddess lies a vast cosmic metropolis far beyond human imagination.",
     "triviaJa": "おとめ座銀河団の銀河たちは、互いの重力で引き合いながら、宇宙空間を高速で移動しています。",
     "triviaEn": "The galaxies in the Virgo Cluster are moving at high speeds, bound together by their mutual gravity.",
-    "targetId": "Acubens",
+    "targetId": "Spica",
     "targetShape": "おとめ座"
   },
   "132": {
@@ -2037,7 +2037,7 @@
     "triviaJa": "英語のCrater（クレーター）は「噴火口」の意味で使われますが、元々はギリシャ語の「混ぜる杯（クラテール）」が語源です。",
     "triviaEn": "While 'Crater' usually means a pit, it comes from the Greek word for a 'mixing bowl' used for wine.",
     "targetId": "Alphard",
-    "targetShape": "うしかい座"
+    "targetShape": "うみへび座"
   },
   "137": {
     "dateMemo": "5月17日",
@@ -2066,8 +2066,8 @@
     "mythologyEn": "In Hawaii, it is 'Hokule'a' (Star of Gladness), a key navigation star for canoes traveling to the islands.",
     "triviaJa": "アークトゥルスは太陽の約25倍の大きさがある巨星ですが、実はもうすぐ（宇宙の時間で）寿命を迎える老人の星です。",
     "triviaEn": "Arcturus is a giant 25 times the sun's size, but it is an aging star nearing the end of its cosmic life.",
-    "targetId": "Acubens",
-    "targetShape": "春の大三角"
+    "targetId": "Arcturus",
+    "targetShape": "うしかい座"
   },
   "139": {
     "dateMemo": "5月19日",
@@ -2201,7 +2201,7 @@
     "mythologyEn": "The Weaver Girl of legend. A skilled worker, she is now waiting for her lover Altair to rise.",
     "triviaJa": "ベガは地球の歳差運動により、約1万2000年後には北極星（ポラリスの位置）になると予測されています。",
     "triviaEn": "Due to Earth's precession, Vega is destined to become the North Star in about 12,000 years.",
-    "targetId": "Altair",
+    "targetId": "Vega",
     "targetShape": "こと座"
   },
   "148": {
@@ -2396,8 +2396,8 @@
     "mythologyEn": "The greatest Greek hero. He is depicted upside down in the sky, stepping on the head of Draco the Dragon.",
     "triviaJa": "ヘラクレス座には、北半球で最も美しい球状星団「M13」があります。数万個の星の集まりです。",
     "triviaEn": "Hercules hosts M13, the finest globular cluster in the northern hemisphere, a ball of tens of thousands of stars.",
-    "targetId": "Vega",
-    "targetShape": "かんむり座"
+    "targetId": "Rasalgethi",
+    "targetShape": "ヘルクレス座"
   },
   "161": {
     "dateMemo": "6月10日",
@@ -2411,8 +2411,8 @@
     "mythologyEn": "Created in the 18th century by Lacaille, it represents a pendulum clock.",
     "triviaJa": "星の動き（日周運動）は、かつて人類にとって最も正確な時計でした。",
     "triviaEn": "The movement of stars was once the most accurate clock available to humanity.",
-    "targetId": "Vega",
-    "targetShape": "さそり座"
+    "targetId": "Achernar",
+    "targetShape": "エリダヌス座"
   },
   "162": {
     "dateMemo": "6月11日",
@@ -2426,8 +2426,8 @@
     "mythologyEn": "Often mistaken for the stars of Tanabata, but it is distinct. It serves as a bridge from spring to summer.",
     "triviaJa": "アークトゥルスは全天で最も速く移動している明るい星のひとつです。数万年後には乙女座の方へ移動しています。",
     "triviaEn": "Arcturus is one of the fastest-moving bright stars. In eons, it will have shifted position towards Virgo.",
-    "targetId": "Altair",
-    "targetShape": "いて座"
+    "targetId": "Arcturus",
+    "targetShape": "うしかい座"
   },
   "163": {
     "dateMemo": "6月12日",
@@ -3027,7 +3027,7 @@
     "triviaJa": "星座の面積としては非常に小さいですが、形が分かりやすいため古代から存在していた歴史ある星座です。",
     "triviaEn": "Despite its tiny area, it is an ancient constellation, likely because its shape is so easily recognizable.",
     "targetId": "Altair",
-    "targetShape": "はくちょう座"
+    "targetShape": "わし座"
   },
   "203": {
     "dateMemo": "7月22日",
@@ -3252,7 +3252,7 @@
     "triviaJa": "この星座の口元で輝くのが、秋の夜空で唯一の1等星『フォーマルハウト』です。",
     "triviaEn": "Shining at the mouth of this constellation is Fomalhaut, the only 1st-magnitude star in the autumn sky.",
     "targetId": "Fomalhaut",
-    "targetShape": "うお座"
+    "targetShape": "みなみのうお座"
   },
   "218": {
     "dateMemo": "8月6日",
@@ -3522,7 +3522,7 @@
     "triviaJa": "この巨大な四角形は、野球のダイヤモンドのようにも見えます。ペガスス座は秋の空の特等席です。",
     "triviaEn": "This giant square resembles a baseball diamond. Pegasus truly has the best seat in the autumn sky.",
     "targetId": "Alpheratz",
-    "targetShape": "カシオペヤ座W"
+    "targetShape": "秋の四辺形"
   },
   "236": {
     "dateMemo": "8月24日",
@@ -3957,7 +3957,7 @@
     "triviaJa": "明るい星が少ない秋の夜空の空間を「秋の四辺形」や「秋のひとつ星」という名前で上手く区切った昔の人の感性は素敵ですね。",
     "triviaEn": "The sensitivity of ancient people to use names like the 'Autumn Square' and 'Solitary Star' to elegantly map out the sparse autumn sky is truly remarkable.",
     "targetId": "Fomalhaut",
-    "targetShape": "ペガスス座"
+    "targetShape": "みなみのうお座"
   },
   "265": {
     "dateMemo": "9月22日",
@@ -4136,7 +4136,7 @@
     "mythologyEn": "While feared as 'nights of darkness,' new moon evenings were also celebrated as 'celestial festivals' when stars shone at their most beautiful.",
     "triviaJa": "アンドロメダ銀河は、肉眼で見える最も遠い天体のひとつです。その光は、人類がまだ存在しなかった時代に出発したものです。",
     "triviaEn": "The Andromeda Galaxy is one of the most distant objects visible to the naked eye. Its light began its journey long before humanity existed.",
-    "targetId": "Schedar",
+    "targetId": "Alpheratz",
     "targetShape": "アンドロメダ座"
   },
   "277": {
@@ -4151,7 +4151,7 @@
     "mythologyEn": "Cepheus was Cassiopeia's husband and Andromeda's father. He was a tragic king, forced to sacrifice his daughter due to his wife's vanity.",
     "triviaJa": "ケフェウス座のデルタ星は「ケフェイド変光星」と呼ばれるタイプの星の名前の由来です。この種の星が宇宙の距離を測る「ものさし」として使われています。",
     "triviaEn": "Delta Cephei is the prototype of 'Cepheid variable stars,' which serve as cosmic distance markers for measuring the scale of the universe.",
-    "targetId": "Schedar",
+    "targetId": "Alderamin",
     "targetShape": "ケフェウス座"
   },
   "278": {
@@ -4181,7 +4181,7 @@
     "mythologyEn": "Cetus represents the sea monster sent by Poseidon to devour Andromeda. It was slain by the hero Perseus just in time.",
     "triviaJa": "デネブカイトスはアラビア語で「くじらの尾」を意味します。実際には太陽の約145倍もの明るさを持つ巨星です。",
     "triviaEn": "Deneb Kaitos means 'tail of the whale' in Arabic. It is a giant star about 145 times more luminous than our Sun.",
-    "targetId": "Fomalhaut",
+    "targetId": "Diphda",
     "targetShape": "くじら座"
   },
   "280": {
@@ -4196,7 +4196,7 @@
     "mythologyEn": "Perseus slew the monster Medusa and rescued Andromeda on his return. The Double Cluster sits at the hilt of his legendary sword.",
     "triviaJa": "二重星団は紀元前130年頃、ヒッパルコスによって既に記録されていました。望遠鏡のない時代から知られていた古い天体です。",
     "triviaEn": "The Double Cluster was recorded by Hipparchus around 130 BC—known long before the invention of the telescope.",
-    "targetId": "Schedar",
+    "targetId": "Mirfak",
     "targetShape": "ペルセウス座"
   },
   "281": {
@@ -4211,7 +4211,7 @@
     "mythologyEn": "In Greek mythology, this is the sacred ram with the Golden Fleece. Its story sparked Jason's epic quest for the Golden Fleece.",
     "triviaJa": "約2,000年前、春分点はおひつじ座にありました。そのため占星術では今でも春の始まりを「白羊宮（おひつじ座）」と呼んでいます。",
     "triviaEn": "About 2,000 years ago, the vernal equinox was in Aries. This is why the astrological year still begins with the sign of the Ram.",
-    "targetId": "Alpheratz",
+    "targetId": "Hamal",
     "targetShape": "おひつじ座"
   },
   "282": {
@@ -4301,7 +4301,7 @@
     "mythologyEn": "In ancient Greece, Triangulum was associated with the triangular island of Sicily or the Nile River delta.",
     "triviaJa": "天の川銀河、アンドロメダ銀河、さんかく座銀河は「局部銀河群」の三大銀河です。この三つは互いの重力で結ばれた宇宙の家族です。",
     "triviaEn": "The Milky Way, Andromeda, and Triangulum galaxies are the three major members of the 'Local Group'—a cosmic family bound by gravity.",
-    "targetId": "Alpheratz",
+    "targetId": "Hamal",
     "targetShape": "さんかく座"
   },
   "288": {
@@ -4316,7 +4316,7 @@
     "mythologyEn": "Mira is a pulsating variable star that physically expands and contracts, causing its brightness changes. It is an aging red giant nearing the end of its life.",
     "triviaJa": "2007年、紫外線観測によってミラが宇宙空間に13光年もの長さの「尾」を引いていることが発見されました。彗星のように宇宙を泳ぐ老いた星です。",
     "triviaEn": "In 2007, UV observations revealed that Mira trails a 'tail' 13 light-years long through space—an old star swimming through the cosmos like a comet.",
-    "targetId": "Fomalhaut",
+    "targetId": "Mira",
     "targetShape": "くじら座"
   },
   "289": {
@@ -4331,7 +4331,7 @@
     "mythologyEn": "The zodiac constellations mark the Sun's annual path. Born in ancient Babylon, this concept became the foundation of astrology.",
     "triviaJa": "秋の黄道は空の高い位置を通るため、月が秋に見える高度は比較的高くなります。これは「中秋の名月」が美しく見える理由のひとつです。",
     "triviaEn": "The autumn ecliptic runs high in the sky, which is why the autumn moon appears at a relatively high altitude—one reason harvest moons look so beautiful.",
-    "targetId": "Alpheratz",
+    "targetId": "Alrescha",
     "targetShape": "うお座"
   },
   "290": {
@@ -4451,7 +4451,7 @@
     "mythologyEn": "The Garnet Star is one of the largest known stars—a red supergiant over 1,000 times the Sun's diameter. If placed at the Sun's position, it would extend beyond Jupiter's orbit.",
     "triviaJa": "この星は不規則に明るさが変化する変光星でもあります。約2年の周期で3.4等から5.1等まで変わるため、数ヶ月観察すると変化がわかります。",
     "triviaEn": "It is also an irregular variable star, fluctuating between magnitudes 3.4 and 5.1 over a roughly two-year cycle. Months of observation reveal these changes.",
-    "targetId": "Schedar",
+    "targetId": "Alderamin",
     "targetShape": "ケフェウス座"
   },
   "298": {
@@ -4481,7 +4481,7 @@
     "mythologyEn": "Aquarius represents Ganymede, a beautiful youth taken to the heavens by Zeus (disguised as an eagle) to serve as cupbearer to the gods.",
     "triviaJa": "みずがめ座には、惑星状星雲の「らせん星雲（NGC 7293）」があります。太陽のような星が寿命を終える際に放出したガスの殻で、「宇宙の目」とも呼ばれます。",
     "triviaEn": "Aquarius contains the Helix Nebula (NGC 7293), a planetary nebula sometimes called the 'Eye of the Universe,' formed by a dying Sun-like star.",
-    "targetId": "Fomalhaut",
+    "targetId": "Sadalmelik",
     "targetShape": "みずがめ座"
   },
   "300": {
@@ -4601,7 +4601,7 @@
     "mythologyEn": "The sea monster Cetus was unleashed by Poseidon's wrath. Its massive belly boasts an overwhelming scale even when traced in the stars.",
     "triviaJa": "バテンカイトスはアラビア語で「くじらの腹」を意味します。この星を基準に、東に尾（デネブカイトス）、西に頭を探すと星座の全貌が掴めます。",
     "triviaEn": "Baten Kaitos means 'the belly of the whale' in Arabic. From here, look east for the tail and west for the head to see the entire constellation.",
-    "targetId": "Baten Kaitos",
+    "targetId": "Menkar",
     "targetShape": "くじら座"
   },
   "308": {
@@ -5066,7 +5066,7 @@
     "mythologyEn": "It represents a hare hiding at the hunter's feet, fleeing from Orion and his hunting dog (Canis Major).",
     "triviaJa": "アルネブはアラビア語でそのまま「うさぎ」を意味します。太陽の約1万倍以上明るい超巨星ですが、遠くにあるため暗く見えています。",
     "triviaEn": "Arneb means 'hare' in Arabic. It is actually a massive supergiant over 10,000 times brighter than the Sun, but appears faint due to its great distance.",
-    "targetId": "Rigel",
+    "targetId": "Arneb",
     "targetShape": "うさぎ座"
   },
   "339": {
@@ -5141,7 +5141,7 @@
     "mythologyEn": "Achernar means 'the end of the river' in Arabic. It is the literal terminus of the mythical river that begins at Orion's feet.",
     "triviaJa": "アケルナルは自転速度が異常に速く（時速約90万km）、遠心力で赤道部分が大きく膨らんだ「ラグビーボール」のような形をしています。",
     "triviaEn": "Achernar spins incredibly fast (about 900,000 km/h). The centrifugal force makes it bulge at the equator, giving it the shape of a rugby ball.",
-    "targetId": "Rigel",
+    "targetId": "Achernar",
     "targetShape": "エリダヌス座"
   },
   "344": {
